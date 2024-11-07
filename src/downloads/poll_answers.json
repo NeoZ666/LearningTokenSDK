@@ -1,0 +1,251 @@
+
+{
+    "id": 82258262218,
+    "uuid": "mI2l9+L7RA2pc4C9Oe1zzQ==",
+    "start_time": "2024-09-17T16:00:20Z",
+    "questions": [
+        {
+            "name": "Harsh Sinyal",
+            "email": "harsh.sinyal@gmail.com",
+            "question_details": [
+                {
+                    "question": "Name and Surname",
+                    "answer": "harsh jain",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:38"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "neoz.blockchain@gmail.com",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:38"
+                },
+                {
+                    "question": "How many tokens would you give to the Instructor?",
+                    "answer": "10",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:38"
+                },
+                {
+                    "question": "Name and Surname",
+                    "answer": "Harsh Jain",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "harsh.sinyal@gmail.com",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                },
+                {
+                    "question": "Please select the four Learning Tokens",
+                    "answer": "Attendance Token;Score for Learner Token;Score for Instructor Token;Help Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                },
+                {
+                    "question": "Select which Tokens are Fungible or Non-Fungible",
+                    "answer": "Fungible:Score for Instructor Token;Non Fungible:Attendance Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                },
+                {
+                    "question": "Score for Learner is a <Answer 1> Token",
+                    "answer": "1:iufwkjfnewj",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                },
+                {
+                    "question": "Score for Learner Tokens are <Answer 1> Tokens",
+                    "answer": "1:djkendkjew",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:32"
+                }
+            ],
+            "first_name": "Harsh Sinyal"
+        },
+        {
+            "name": "Fateh",
+            "question_details": [
+                {
+                    "question": "Name and Surname",
+                    "answer": "Fateh Latif",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:24"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "iamfateh01@gmail.com",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:24"
+                },
+                {
+                    "question": "How many tokens would you give to the Instructor?",
+                    "answer": "9",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:24"
+                },
+                {
+                    "question": "Name and Surname",
+                    "answer": "Fateh Latif",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "iamfateh01@gmail.com",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                },
+                {
+                    "question": "Please select the four Learning Tokens",
+                    "answer": "Attendance Token;Score for Learner Token;Score for Instructor Token;Help Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                },
+                {
+                    "question": "Select which Tokens are Fungible or Non-Fungible",
+                    "answer": "Fungible:Help Token;Non Fungible:Attendance Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                },
+                {
+                    "question": "Score for Learner is a <Answer 1> Token",
+                    "answer": "1:",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                },
+                {
+                    "question": "Score for Learner Tokens are <Answer 1> Tokens",
+                    "answer": "1:Non-FUngible",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:15"
+                }
+            ],
+            "first_name": "Fateh"
+        },
+        {
+            "name": "Ciel",
+            "email": "cmsrecuerdo@gmail.com",
+            "question_details": [
+                {
+                    "question": "Name and Surname",
+                    "answer": "Ciel Recuerdo",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:03"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "cmsrecuerdo@gmail.com",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:03"
+                },
+                {
+                    "question": "How many tokens would you give to the Instructor?",
+                    "answer": "10",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:03"
+                },
+                {
+                    "question": "Name and Surname",
+                    "answer": "Ciel Recuerdo",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "cmsrecuerdo@gmail.com",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                },
+                {
+                    "question": "Please select the four Learning Tokens",
+                    "answer": "Attendance Token;Score for Learner Token;Score for Instructor Token;Help Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                },
+                {
+                    "question": "Select which Tokens are Fungible or Non-Fungible",
+                    "answer": "Fungible:Attendance Token;Non Fungible:Score for Learner Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                },
+                {
+                    "question": "Score for Learner is a <Answer 1> Token",
+                    "answer": "1:Non Fungible Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                },
+                {
+                    "question": "Score for Learner Tokens are <Answer 1> Tokens",
+                    "answer": "1:Non Fungible Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:20:53"
+                }
+            ],
+            "first_name": "Ciel"
+        },
+        {
+            "name": "piash tanjin",
+            "email": "piash.tanjin@gmail.com",
+            "question_details": [
+                {
+                    "question": "Name and Surname",
+                    "answer": "Piash",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:13"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "piash.tanjin@gmail.com",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:13"
+                },
+                {
+                    "question": "How many tokens would you give to the Instructor?",
+                    "answer": "10",
+                    "polling_id": "-GmrzLCLSeiyCBXZEqk3aw",
+                    "date_time": "2024-09-17 16:23:13"
+                },
+                {
+                    "question": "Name and Surname",
+                    "answer": "Piash",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                },
+                {
+                    "question": "E-mail",
+                    "answer": "piash.tanjin@gmail.com",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                },
+                {
+                    "question": "Please select the four Learning Tokens",
+                    "answer": "Attendance Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                },
+                {
+                    "question": "Select which Tokens are Fungible or Non-Fungible",
+                    "answer": "Fungible:Attendance Token;Non Fungible:Help Token",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                },
+                {
+                    "question": "Score for Learner is a <Answer 1> Token",
+                    "answer": "1:NFT",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                },
+                {
+                    "question": "Score for Learner Tokens are <Answer 1> Tokens",
+                    "answer": "1:ERC20",
+                    "polling_id": "SN1wX146SQij9xT864g75A",
+                    "date_time": "2024-09-17 16:21:33"
+                }
+            ],
+            "first_name": "piash tanjin"
+        }
+    ]
+}

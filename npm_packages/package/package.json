@@ -1,0 +1,11 @@
+{
+  "name": "selenium-chat",
+  "version": "1.0.0",
+  "description": "phase 1 of npm development",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "neoz666",
+  "license": "ISC"
+}

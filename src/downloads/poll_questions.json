@@ -1,0 +1,343 @@
+{
+    "total_records": 4,
+    "polls": [
+        {
+            "id": "SN1wX146SQij9xT864g75A",
+            "title": "Learning Tokens - Quiz Example",
+            "anonymous": false,
+            "status": "notstart",
+            "questions": [
+                {
+                    "name": "Name and Surname",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "E-mail",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "Please select the four Learning Tokens",
+                    "type": "multiple",
+                    "answers": [
+                        "Attendance Token",
+                        "Score for Learner Token",
+                        "Score for Instructor Token",
+                        "Help Token",
+                        "Score for Speaker Token",
+                        "Engagement Token"
+                    ],
+                    "answer_required": true,
+                    "right_answers": [
+                        "Attendance Token",
+                        "Score for Learner Token",
+                        "Score for Instructor Token",
+                        "Help Token"
+                    ]
+                },
+                {
+                    "name": "Select which Tokens are Fungible or Non-Fungible",
+                    "type": "matching",
+                    "prompts": [
+                        {
+                            "prompt_question": "Fungible",
+                            "prompt_right_answers": [
+                                "Help Token"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Non Fungible",
+                            "prompt_right_answers": [
+                                "Attendance Token"
+                            ]
+                        }
+                    ],
+                    "answers": [
+                        "Attendance Token",
+                        "Score for Learner Token",
+                        "Score for Instructor Token",
+                        "Help Token"
+                    ],
+                    "answer_required": true
+                },
+                {
+                    "name": "Score for Learner is a <Answer 1> Token",
+                    "type": "fill_in_the_blank",
+                    "answer_required": false,
+                    "right_answers": [
+                        "Non Fungible"
+                    ],
+                    "case_sensitive": false
+                },
+                {
+                    "name": "Score for Learner Tokens are <Answer 1> Tokens",
+                    "type": "fill_in_the_blank",
+                    "answer_required": true,
+                    "right_answers": [
+                        "Non Fungible"
+                    ],
+                    "case_sensitive": false
+                }
+            ],
+            "poll_type": 3
+        },
+        {
+            "id": "-GmrzLCLSeiyCBXZEqk3aw",
+            "title": "Learning Tokens - Score for Instructor Token",
+            "anonymous": false,
+            "status": "notstart",
+            "questions": [
+                {
+                    "name": "Name and Surname",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "E-mail",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "How many tokens would you give to the Instructor?",
+                    "type": "rating_scale",
+                    "answer_required": true,
+                    "rating_min_value": 0,
+                    "rating_max_value": 10,
+                    "rating_min_label": "None",
+                    "rating_max_label": "Very good presentation"
+                }
+            ],
+            "poll_type": 2
+        },
+        {
+            "id": "UPJFkCdoRIOO3Sl7qSaqTA",
+            "title": "Learning Tokens - Sync Call Quiz",
+            "anonymous": false,
+            "status": "notstart",
+            "questions": [
+                {
+                    "name": "Do you like Learning Tokens",
+                    "type": "single",
+                    "answers": [
+                        "Yes",
+                        "No"
+                    ],
+                    "show_as_dropdown": false,
+                    "answer_required": true,
+                    "right_answers": [
+                        "Yes"
+                    ]
+                },
+                {
+                    "name": "Where would you like to apply them ",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "Please match type of token with description of its value",
+                    "type": "matching",
+                    "prompts": [
+                        {
+                            "prompt_question": "Attendance Token",
+                            "prompt_right_answers": [
+                                "The value of showing off"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Score for Learners Token",
+                            "prompt_right_answers": [
+                                "The value of acquiring a skill"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Help for Learners Token",
+                            "prompt_right_answers": [
+                                "The value of collaboration and support"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Score for Instructors Token",
+                            "prompt_right_answers": [
+                                "The value of teaching performance"
+                            ]
+                        }
+                    ],
+                    "answers": [
+                        "The value of acquiring a skill",
+                        "The value of teaching performance",
+                        "The value of collaboration and support",
+                        "The value of showing off"
+                    ],
+                    "answer_required": true
+                },
+                {
+                    "name": "What are the main components of Learning Tokens",
+                    "type": "multiple",
+                    "answers": [
+                        "Granularity",
+                        "Scoring Guides",
+                        "Smart Contracts",
+                        "Registry of Trust",
+                        "DIDs",
+                        "Skill Wallets"
+                    ],
+                    "answer_required": true,
+                    "right_answers": [
+                        "Scoring Guides",
+                        "Smart Contracts",
+                        "Registry of Trust"
+                    ]
+                },
+                {
+                    "name": "Would Learning Tokens be easily adopted",
+                    "type": "rating_scale",
+                    "answer_required": true,
+                    "rating_min_value": 0,
+                    "rating_max_value": 10,
+                    "rating_min_label": "Not likely",
+                    "rating_max_label": "Extremely Likely"
+                },
+                {
+                    "name": "What do you prefer of Learning Tokens (1 = mis, 5 = max)",
+                    "type": "rank_order",
+                    "prompts": [
+                        {
+                            "prompt_question": "Granularity",
+                            "prompt_right_answers": [
+                                "5"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Fields of Knowledge",
+                            "prompt_right_answers": [
+                                "4"
+                            ]
+                        },
+                        {
+                            "prompt_question": "Taxonomy of Skills",
+                            "prompt_right_answers": [
+                                "3"
+                            ]
+                        }
+                    ],
+                    "answers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer_required": false
+                }
+            ],
+            "poll_type": 3
+        },
+        {
+            "id": "3Ja5eQIUTnWa_cwd0gpKSw",
+            "title": "Learning Tokens - Sync Call Poll",
+            "anonymous": false,
+            "status": "notstart",
+            "questions": [
+                {
+                    "name": "Do you like Learning Tokens",
+                    "type": "single",
+                    "answers": [
+                        "Yes",
+                        "No"
+                    ],
+                    "show_as_dropdown": false,
+                    "answer_required": true
+                },
+                {
+                    "name": "Where would you like to apply them",
+                    "type": "short_answer",
+                    "answer_required": true,
+                    "answer_min_character": 1,
+                    "answer_max_character": 200
+                },
+                {
+                    "name": "Please match type of token with description of its value",
+                    "type": "matching",
+                    "prompts": [
+                        {
+                            "prompt_question": "Attendance Token"
+                        },
+                        {
+                            "prompt_question": "Score for Learners Token"
+                        },
+                        {
+                            "prompt_question": "Help for Learners Token"
+                        },
+                        {
+                            "prompt_question": "Score for Instructors Token"
+                        }
+                    ],
+                    "answers": [
+                        "The value of acquiring a skill",
+                        "The value of teaching performance",
+                        "The value of collaboration and support",
+                        "The value of showing off"
+                    ],
+                    "answer_required": false
+                },
+                {
+                    "name": "What are the main components of Learning Tokens",
+                    "type": "multiple",
+                    "answers": [
+                        "Granularity",
+                        "Scoring Guides",
+                        "Smart Contracts",
+                        "Registry of Trust",
+                        "DIDs",
+                        "Skill Wallets"
+                    ],
+                    "answer_required": false
+                },
+                {
+                    "name": "Would Learning Tokens be easily adopted",
+                    "type": "rating_scale",
+                    "answer_required": true,
+                    "rating_min_value": 0,
+                    "rating_max_value": 10,
+                    "rating_min_label": "Not likely",
+                    "rating_max_label": "Extremely Likely"
+                },
+                {
+                    "name": "What do you prefer of Learning Tokens (1 = mis, 5 = max)",
+                    "type": "rank_order",
+                    "prompts": [
+                        {
+                            "prompt_question": "Granularity"
+                        },
+                        {
+                            "prompt_question": "Fields of Knowledge"
+                        },
+                        {
+                            "prompt_question": "Taxonomy of Skills"
+                        }
+                    ],
+                    "answers": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "answer_required": false
+                }
+            ],
+            "poll_type": 2
+        }
+    ]
+}

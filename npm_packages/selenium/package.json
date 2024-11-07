@@ -1,0 +1,18 @@
+{
+  "name": "zoom-chat-downloader",
+  "version": "1.0.0",
+  "description": "Downloads Zoom chat files and extracts user data",
+  "main": "src/index.js",
+  "scripts": {
+    "download-chat": "node src/index.js"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "selenium-webdriver": "^4.26.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^130.0.4"
+  }
+}

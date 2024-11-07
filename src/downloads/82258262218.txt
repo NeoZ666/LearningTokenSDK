@@ -1,0 +1,23 @@
+00:24:20	Alfonso Govela:	I would like to opt-in to Learning Tokens. My name is Alfonso Govela, my e-mail is alfonsogovela@mac.com
+00:24:35	piash tanjin:	I am Tanjin Alam
+00:24:47	piash tanjin:	I wanted to opt-in LT. 
+piash.tanjin@gmail.com
+00:24:48	Alfonso Govela:	I am part of Learning Tokens. My LT-ID is LT-AaAaAa
+00:25:39	Alfonso Govela:	I am Alfonso Govela, my LT ID is LT-AaAaAa
+00:26:13	Ciel:	Ciel Recuerdo and would like to opt-in LT. cmsrecuerdo@gmail.com
+00:31:48	piash tanjin:	Formate data would be like 
+
+[
+{
+Name : Tanjin Alam,
+Email : piash.tanjin@gmail.com
+LT_ID: None
+},
+{
+Name: Alfonso Govela
+Email: alfensogovela@mac.com,
+LT_ID: LT-AaAaAa
+}
+…..
+]
+00:32:40	Harsh Sinyal:	Correct, that is how my script is working right now

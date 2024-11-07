@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules/
+# Ignore downloads folder
+downloads/
+# Ignore logs
+logs.json
+# Ignore other unnecessary files
+*.log
